@@ -1,0 +1,17 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "This project is serverless function tutorial, where we'll create a messaging service.",
+  "main": "index.js",
+  "scripts": {
+    "netlify": "netlify dev"
+  },
+  "keywords": [
+    "Serverless"
+  ],
+  "author": "Rajat Gupta",
+  "license": "MIT",
+  "devDependencies": {
+    "netlify-cli": "^4.1.18"
+  }
+}
